@@ -1,3 +1,3 @@
-# Create Aeronautics — Medium
+# Create Aeronautics
 
-Сборка Minecraft в формате Modrinth. Скачайте файл `.mrpack` из [релизов](https://github.com/Gnidus-pozhovanny/create-aeronautics-medium/releases) и импортируйте его в лаунчер, поддерживающий этот формат.
+Стандартная сборка Minecraft в формате Modrinth. Скачайте файл `Create-Aeronautics.mrpack` из [релизов](https://github.com/Gnidus-pozhovanny/create-aeronautics/releases) и импортируйте его в лаунчер, поддерживающий этот формат.
